@@ -1,6 +1,6 @@
 {
   "name": "@chargerwallet/react-native-ble-plx",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "React Native Bluetooth Low Energy library",
   "main": "index.js",
   "scripts": {
